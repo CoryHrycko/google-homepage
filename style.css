@@ -57,7 +57,7 @@ Html,body{
   padding: .8em;
   border: 1px solid #c0c0c0;
   border-radius: 2px;
-  
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.16), 0px 0px 0px 1px rgba(0,0,0,0.08);
 }
 .btn-div1{
   border: 1px solid #c0c0c0;
