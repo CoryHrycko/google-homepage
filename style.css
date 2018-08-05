@@ -42,7 +42,7 @@ Html,body{
   Width: 20%;
 }
 .inputField {
-  height: 15px;
+  height: 1em;
   width: 40em;
   padding: .3em;
   border: 1px solid #c0c0c0;
