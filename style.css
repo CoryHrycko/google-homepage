@@ -26,6 +26,16 @@ Html,body{
     margin-top:-4em;
     vertical-align: middle;
 }
+#ML{
+  list-style-type:none;
+  overflow: hidden;
+}
+#lefty {
+  float: left;
+  padding-right:1em;
+}
+#st{
+}
 #sgnn{
   color: #fff;
   background-color: #4285f4;
