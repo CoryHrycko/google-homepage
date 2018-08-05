@@ -51,7 +51,8 @@ Html,body{
 }
 #image {
   Width: 20%;
-  padding-top:5em;
+  padding-top:2em;
+  margin-top: 1em;
   margin-bottom:-5em;
 }
 .inputField {
