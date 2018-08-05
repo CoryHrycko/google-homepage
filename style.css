@@ -50,6 +50,8 @@ Html,body{
 }
 #image {
   Width: 20%;
+  padding-top:5em;
+  margin-bottom:-5em;
 }
 .inputField {
   height: 1em;
