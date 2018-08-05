@@ -7,7 +7,7 @@ Html,body{
 }
 #pull-right{
     font-family: Helvetica,sans-serif;
-    font-size: .8em;
+    font-size: .4em;
     display: inline-block;
     float: right;
     right: 0;
@@ -18,7 +18,7 @@ Html,body{
 }
 #pull-left{
     font-family: Helvetica,sans-serif;
-    font-size: .8em;
+    font-size: .5em;
     display: inline-block;
     float: left;
     right: 0;
@@ -40,6 +40,7 @@ Html,body{
   color: #fff;
   background-color: #4285f4;
   padding:.5em;
+  font-size: .4em;
 }
 #img-div{
   margin:auto;
